@@ -1,0 +1,7 @@
+Butoon colors and shape
+assign function to button in xml
+add dependency for auto detetect elements
+	apply plugin: "kotlin-android-extensions
+add dependency for calculation
+	implementation 'net.objecthunter:exp4j:0.4.5'
+
